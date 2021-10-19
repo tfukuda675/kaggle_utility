@@ -1,4 +1,6 @@
 
+import pandas as pd
+
 
 def reduce_memory(df):
     print("Reduce_memory...");
